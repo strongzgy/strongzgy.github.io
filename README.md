@@ -1,1 +1,1 @@
-# strongzgy.github.io
+Python课程以及AI课程中的内容分享
